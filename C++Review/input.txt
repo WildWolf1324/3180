@@ -1,0 +1,3 @@
+C++ feels like a new language. 
+That is, I can express more ideas more clearly, more simply, and more directly in C++11 than I could in C++98
+Furthermore, the resulting programs are better checked by the compilier and run faster. 
